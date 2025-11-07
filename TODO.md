@@ -1,0 +1,2 @@
+- [ ] Add req.body existence checks in signUp and login functions in controller/user.controller.js
+- [ ] Fix inconsistency in login response: change 'username' to 'name'
